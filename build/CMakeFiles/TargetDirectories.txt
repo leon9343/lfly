@@ -1,0 +1,4 @@
+/home/leonardo/dev/Graphics/lfly/build/CMakeFiles/glad.dir
+/home/leonardo/dev/Graphics/lfly/build/CMakeFiles/lfly.dir
+/home/leonardo/dev/Graphics/lfly/build/CMakeFiles/edit_cache.dir
+/home/leonardo/dev/Graphics/lfly/build/CMakeFiles/rebuild_cache.dir
