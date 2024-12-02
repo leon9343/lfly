@@ -18,10 +18,14 @@ namespace Sim {
     Wing(float area, float liftCoefficient, float dragCoefficient);
 
     void Update(float deltaTime) override;
-    void ComputeMoment() override;
+
+    glm::vec3 ComputeForce() const override;
+
+    glm::vec3 ComputeMoment() const override;
 
   private:
     float _area;
+    float _aspectRatio;
     float _liftCoefficient;
     float _dragCoefficient;
   };

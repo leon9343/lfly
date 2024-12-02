@@ -36,6 +36,7 @@ namespace Sim {
   protected:
     glm::vec3 _position;    ///< Aircraft position
     glm::vec3 _direction;   ///< Aircraft direction
+    float _weight;          ///< Aircraft weight
     // TODO: add more
   };
 
